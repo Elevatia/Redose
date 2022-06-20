@@ -1,0 +1,22 @@
+{
+    "timestamp" : 0,
+    "client" : {
+        "user_agent" : null,
+        "url" : null,
+        "platform" : null
+    },
+    "platforms" : [
+        {
+            "name" : "steam",
+            "host" : "steam"
+        },
+        {
+            "name" : "epic",
+            "host" : "brill"
+        },
+        {
+            "name" : "microsoft",
+            "host" : "grdk"
+        }
+    ]
+}
